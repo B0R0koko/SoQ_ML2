@@ -9,3 +9,5 @@
 </ul>
 
 <p>Unpack zipped data file into data folder with train and val folders. Also in the log folder we have log files which tracked the progress of the training and validation. We used Tensorboard for tracking.</p>
+
+<img src="./imgs/image.png" alt="Tensorboard. Model 1" width="500">
