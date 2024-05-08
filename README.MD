@@ -3,9 +3,23 @@
 
 <p>In this project we trained EfficientNet model for image classification (Tiny Image Dataset)</p>
 
-Index	Model	Accuracy
-0	EfficientNetb4_64x64_locally_trained	0.405
-1	EfficientNetb4_224x224_ImageNet_pretrained_tuned	0.755
+<table>
+  <tr>
+    <th>Index</th>
+    <th>Model</th>
+    <th>Accuracy</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>EfficientNetb4_64x64_locally_trained</td>
+    <td>0.405</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>EfficientNetb4_224x224_ImageNet_pretrained_tuned</td>
+    <td>0.755</td>
+  </tr>
+</table>
 
 <ul>
     <li>As the first part, we trained untrained EfficientNet model from scratch and get the accuracy on validation of 0.404. Grade - 9.02 / 10</li>
